@@ -7,7 +7,7 @@ android {
         applicationId "screen.com.multiplesizes"
         minSdkVersion 14
         targetSdkVersion 21
-        versionCode 14
+        versionCode 25
         versionName '1.0'
     }
     buildTypes {

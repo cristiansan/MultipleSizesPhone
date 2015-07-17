@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MultipleSizes</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="seven_inch">LAYOUT TABLET 7\" SIZES</string>
+    <string name="ten_inch">LAYOUT TABLET 10\" SIZES</string>
     <string name="action_settings">Settings</string>
 </resources>
